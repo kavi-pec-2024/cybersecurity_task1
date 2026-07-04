@@ -28,7 +28,8 @@ This report was completed as Task-1 of the Maincrafts Technology Cybersecurity &
 
 ## File
 
-- [`Cybersecurity_Threat_Report_Task1_KaviPriyanT.docx`](./Cybersecurity_Threat_Report_Task1_KaviPriyanT.docx) — full report (Word format)
+- [`Cybersecurity_Threat_Report_Task1_KaviPriyanT.pdf`](./Cybersecurity_Threat_Report_Task1_KaviPriyanT.pdf) — full report (view directly on GitHub)
+- [`Cybersecurity_Threat_Report_Task1_KaviPriyanT.docx`](./Cybersecurity_Threat_Report_Task1_KaviPriyanT.docx) — editable Word version (download to open)
 
 ## Sources
 
